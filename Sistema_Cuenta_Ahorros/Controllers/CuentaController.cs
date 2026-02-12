@@ -22,5 +22,17 @@ namespace Sistema_Cuenta_Ahorros.Controllers
             ViewBag.Mensaje = "Depósito realizado correctamente.";
             return View("Index", cuenta);
         }
+        [HttpPost]
+        public IActionResult Retirar(decimal monto)
+        {
+            bool exito = cuenta.Retirar(monto);
+
+            if (!exito)
+                ViewBag.Error = "Saldo insuficiente o monto inválido.";
+            else
+                ViewBag.Mensaje = "Retiro realizado.";
+
+            return View("Index", cuenta);
+        }
     }
 }

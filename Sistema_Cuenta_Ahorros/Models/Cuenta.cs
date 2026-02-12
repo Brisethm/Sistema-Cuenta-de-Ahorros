@@ -9,5 +9,14 @@ namespace Sistema_Cuenta_Ahorros.Models
             if (monto > 0)
                 Saldo += monto;
         }
+        public bool Retirar(decimal monto)
+        {
+            if (monto > 0 && monto <= Saldo)
+            {
+                Saldo -= monto;
+                return true;
+            }
+            return false;
+        }
     }
 }

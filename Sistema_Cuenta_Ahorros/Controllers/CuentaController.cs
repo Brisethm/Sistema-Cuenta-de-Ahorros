@@ -10,7 +10,17 @@ namespace Sistema_Cuenta_Ahorros.Controllers
 
         public IActionResult Index()
         {
+
             return View(cuenta);
+        }
+
+        [HttpPost]
+
+        public IActionResult Depositar(decimal monto)
+        {
+            cuenta.Depositar(monto);
+            ViewBag.Mensaje = "Depósito realizado correctamente.";
+            return View("Index", cuenta);
         }
     }
 }

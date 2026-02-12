@@ -9,23 +9,23 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sistema_Cuenta_Ahorros
 build_property.RootNamespace = Sistema_Cuenta_Ahorros
-build_property.ProjectDir = C:\Users\BrisethSofíaMarínMos\Documents\Sistema-Cuenta-de-Ahorros\Sistema_Cuenta_Ahorros\
+build_property.ProjectDir = C:\Users\valen\Downloads\Sistema-Cuenta-de-Ahorros\Sistema_Cuenta_Ahorros\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\BrisethSofíaMarínMos\Documents\Sistema-Cuenta-de-Ahorros\Sistema_Cuenta_Ahorros
+build_property.MSBuildProjectDirectory = C:\Users\valen\Downloads\Sistema-Cuenta-de-Ahorros\Sistema_Cuenta_Ahorros
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/BrisethSofíaMarínMos/Documents/Sistema-Cuenta-de-Ahorros/Sistema_Cuenta_Ahorros/Views/Cuenta/Index.cshtml]
+[C:/Users/valen/Downloads/Sistema-Cuenta-de-Ahorros/Sistema_Cuenta_Ahorros/Views/Cuenta/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrisethSofíaMarínMos/Documents/Sistema-Cuenta-de-Ahorros/Sistema_Cuenta_Ahorros/Views/_ViewImports.cshtml]
+[C:/Users/valen/Downloads/Sistema-Cuenta-de-Ahorros/Sistema_Cuenta_Ahorros/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/BrisethSofíaMarínMos/Documents/Sistema-Cuenta-de-Ahorros/Sistema_Cuenta_Ahorros/Views/_ViewStart.cshtml]
+[C:/Users/valen/Downloads/Sistema-Cuenta-de-Ahorros/Sistema_Cuenta_Ahorros/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
